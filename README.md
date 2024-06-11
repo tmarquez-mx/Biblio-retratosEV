@@ -1,11 +1,9 @@
-# Biblio-retratosEV
-
 # Biblio-retratos. Visualizing academic identities.
-
 A reinterpretation from Digital Humanities of Zotero as an artifact to document academic identities in literacy.
 
 
 ### Scheme
+
 • Narrative description
 • Operative description
 • Keywords
