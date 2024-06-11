@@ -1,6 +1,6 @@
 # Biblio-retratos. Visualizing academic identities.
 A reinterpretation from Digital Humanities of Zotero as an artifact to document academic identities in literacy.
-
+##### [SPANISH VERSION](https://github.com/tmarquez-mx/biblio-retratos/blob/main/README.md)
 
 ### Scheme
 
