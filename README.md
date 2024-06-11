@@ -4,20 +4,20 @@ A reinterpretation from Digital Humanities of Zotero as an artifact to document 
 
 ### Scheme
 
-• Narrative description
-• Operative description
-• Keywords
-• Enabled features
-• Future features
-• Development
-• Security
-• Register Guide
-• Query Guide
-• Visualization Guide
-• History
-• Design and image trademark
-• Credits
-• Thanks
+- Narrative description
+- Operative description
+- Keywords
+- Enabled features
+- Future features
+- Development
+- Security
+- Register Guide
+- Query Guide
+- Visualization Guide
+- History
+- Design and image trademark
+- Credits
+- Thanks
 
 
 
