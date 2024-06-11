@@ -78,8 +78,8 @@ Phase 2.
 • Free of vulnerabilities Apache server
 
 ### Registry Guide
-1. Go to Biblio-retratos webpage
-2. The first time you must get your username clicking "Register here".
+1. Go to Biblio-retratos webpage (https://biblioretratos.ibero.mx/)
+2. The first time you must get your username clicking **`Register here`**.
 3. In the next screen, type your email and a 10 character password, using small and caps
 4. Next screen wil request for one time only your Zotero User ID and the Private Key. To get those, you can go to https://www.zotero.org/settings/keys or follow the next instructions
 
