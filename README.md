@@ -23,15 +23,15 @@ A reinterpretation from Digital Humanities of Zotero as an artifact to document 
 
 ### Narrative description
 
-Biblio-retratos is a web application that allows Zotero (an open source reference manager heavily extended in academic communities worldwide) users to get various analytics and visualizations regarding their "literacy". Meaning, regarding their abilities, work, and trajectory in bibliographic reference collecting and processing. All of them, apart from consuming a tremendous ammount of time in the span of an academic career, are practices that reflect belonging, dispositions and theorical-methodological frontiers, making them an important part of an academic identity. Biblio- retratos (also known as Zotero-BR) is a project of Digital Humanities. In 2023, it received financing from Dirección de Investigación y Posgrado of Universidad Iberoamericana, Mexico City.
+Biblio-retratos is a [web application]( https://biblioretratos.ibero.mx/) that allows Zotero (an open source reference manager heavily extended in academic communities worldwide) users to get various analytics and visualizations regarding their "literacy". Meaning, regarding their abilities, work, and trajectory in bibliographic reference collecting and processing. All of them, apart from consuming a tremendous ammount of time in the span of an academic career, are practices that reflect belonging, dispositions and theorical-methodological frontiers, making them an important part of an academic identity. Biblio- retratos (also known as Zotero-BR) is a project of Digital Humanities. In 2023, it received financing from [Dirección de Investigación y Posgrado](https://investigacion.ibero.mx/)  of [Universidad Iberoamericana, Mexico City](https://ibero.mx/)
 
 
 ### Operative description
 
 
-• Biblio-retratos (BR) links the user with their database stored by default in the Zotero server via Zotero Web API v3. If the database is in another server, communication won't be possible.
+• Biblio-retratos (BR) links the user with their database stored by default in the Zotero server via [Zotero Web API v3](https://www.zotero.org/support/dev/web_api/v3/start#zotero_web_api_v3). If the database is in another server, communication won't be possible.
 
-• BR is going to request (typo en el original) during registration for the first and only time Zotero's ID User and Private key. See instructions.
+• BR is going to request during registration **for the first and only time**  Zotero's ID User and Private key. See instructions.
 
 • Queries are performed by item type (i.e., book, book section, journal, and so on) or by sub-collection. The whole database can be queried if no item or sub-collection is selected.[^1]
 
@@ -80,15 +80,15 @@ Phase 2.
 ### Registry Guide
 1. Go to Biblio-retratos webpage (https://biblioretratos.ibero.mx/)
 2. The first time you must get your username clicking **`Register here`**.
-<img width="600" alt="Captura de pantalla 2024-06-12 a la(s) 6 06 51 p m" src="https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/26384ffd-22e0-4d40-a151-678057c88cbc">
+<img width="430" alt="Captura de pantalla 2024-06-12 a la(s) 6 06 51 p m" src="https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/26384ffd-22e0-4d40-a151-678057c88cbc">
 
 3. In the next screen, type your email and a 10 character password, using small and caps
 
-<img width="852" alt="Captura de pantalla 2024-06-12 a la(s) 6 08 27 p m" src="https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/70e0ca8e-4774-4361-b176-a9c99019634e">
+<img width="430" alt="Captura de pantalla 2024-06-12 a la(s) 6 08 27 p m" src="https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/70e0ca8e-4774-4361-b176-a9c99019634e">
 
 4. Next screen wil request for one time only your Zotero User ID and the Private Key. To get those, you can go to https://www.zotero.org/settings/keys or follow the next instructions
 
-<img width="637" alt="Captura de pantalla 2024-06-12 a la(s) 6 12 06 p m" src="https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/1e7e077d-6e21-42bf-9f04-0aefaa5fc4fa">
+<img width="430" alt="Captura de pantalla 2024-06-12 a la(s) 6 12 06 p m" src="https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/1e7e077d-6e21-42bf-9f04-0aefaa5fc4fa">
 
 
 
