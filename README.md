@@ -4,7 +4,7 @@ A reinterpretation from Digital Humanities of Zotero as an artifact to document 
 
 ### Scheme
 
-- Narrative description
+- [Narrative description](https://github.com/tmarquez-mx/biblio-retratoEV#Narrativedescription)
 - Operative description
 - Keywords
 - Enabled features
@@ -21,12 +21,12 @@ A reinterpretation from Digital Humanities of Zotero as an artifact to document 
 
 
 
-### Narrative description
+## Narrative description
 
 Biblio-retratos is a [web application]( https://biblioretratos.ibero.mx/) that allows Zotero (an open source reference manager heavily extended in academic communities worldwide) users to get various analytics and visualizations regarding their "literacy". Meaning, regarding their abilities, work, and trajectory in bibliographic reference collecting and processing. All of them, apart from consuming a tremendous ammount of time in the span of an academic career, are practices that reflect belonging, dispositions and theorical-methodological frontiers, making them an important part of an academic identity. Biblio- retratos (also known as Zotero-BR) is a project of Digital Humanities. In 2023, it received financing from [Dirección de Investigación y Posgrado](https://investigacion.ibero.mx/)  of [Universidad Iberoamericana, Mexico City](https://ibero.mx/)
 
 
-### Operative description
+## Operative description
 
 
 • Biblio-retratos (BR) links the user with their database stored by default in the Zotero server via [Zotero Web API v3](https://www.zotero.org/support/dev/web_api/v3/start#zotero_web_api_v3). If the database is in another server, communication won't be possible.
@@ -40,13 +40,13 @@ Biblio-retratos is a [web application]( https://biblioretratos.ibero.mx/) that a
 (Queries can be set temporarily). Possibilities are: anually (every registered year since the beginning of the database), every 5 years, every decade, every X number of years or a period of years. If no option is specifies, query will be done in all the registers.
 
 
-### Keywords
+## Keywords
 Academic identities, visual analytics, literacy, Digital Humanities, Zotero
 
 [^1]:  Note: Due to BR getting information from a remote database, query results by tags, may not match what the user visualizes in the Zotero desktop app. To verify and filter tags, go to the web version.
     
 
-### Enabled features
+## Enabled features
 
 Phase 1. 
 Concluded and operational. No installation required. Web-based operation. Currently in public beta. (03.2024)
@@ -57,7 +57,7 @@ Concluded and operational. No installation required. Web-based operation. Curren
 	• Visualization
 	• Export .PNG
 
-### Future features
+## Future features
 
 Phase 2.
 	• Uploading of image or photograph (portrait)
@@ -65,19 +65,19 @@ Phase 2.
 	• Biblio-retrato generation
 	• Export
 
-### Development
+## Development
 
 • Frontend : Framework Vue.js Javascript (open source)
 
 • Backend : Java
 
-### Security
+## Security
 • Biblio-retratos does not store content from any user database in Zotero. It only eases communication between both.
 • Email, Zotero User ID and Zotero Private key are protected by la. See Privacy Notes.
 • Safe password and captcha validation standard
 • Free of vulnerabilities Apache server
 
-### Registry Guide
+## Registry Guide
 1. Go to Biblio-retratos webpage (https://biblioretratos.ibero.mx/)
 2. The first time you must get your username clicking **`Register here`**.
 <img width="430" alt="Captura de pantalla 2024-06-12 a la(s) 6 06 51 p m" src="https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/26384ffd-22e0-4d40-a151-678057c88cbc">
@@ -91,8 +91,7 @@ Phase 2.
 <img width="430" alt="Captura de pantalla 2024-06-12 a la(s) 6 12 06 p m" src="https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/1e7e077d-6e21-42bf-9f04-0aefaa5fc4fa">
 
 
-
-### Query Guide
+## Query Guide
 
 Biblio-retratos allows you to obtain metadata analyrics from your references database. You will be able to know, for instance, which authors you registered more frequently in Zotero in a determined number of years (i.e. when you are doing some dissertation, working on certain methodologies, when you were teaching certain courses).
 You could also know from which years and places your sources come from more frequently. Or what library sub-collection use the wider variety of items or formats. Once you enter BR, after identification (it will not be necessary to write email or password again, since the system stores them) a screen shows up with the "Start query" button. When you click it, you must follow the following steps for a query.
@@ -126,7 +125,7 @@ After setting the query, click in "Query". It can take some time, since it is do
 ![imagen](https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/ab56e2a4-a295-4d42-8f04-bb1303f08d6b)
 
 
-### Visualization Guide
+## Visualization Guide
 
 To generate visualizations of charts or analytics, you must point the cursor to the 3 dots in the upper left side (typo en el original)  next to the time intervals and choose the appropiate graphic from the menu. Resulting visualiztion can be exported in .PNG
 
@@ -141,9 +140,9 @@ IMG. Demo of the complete visualization and query process.
 
 ![BR_gif](https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/3483fef7-1859-4091-a2da-4b4497de20c6)
 
-### History
+## History
 
-#### 2023: (re) design and development
+### 2023: (re) design and development
 
 | April     | Financial approval DINVP, Ibero                                                        |
 |:---------:|----------------------------------------------------------------------------------------|
@@ -159,7 +158,7 @@ and development of visualizations                                              |
 | December  |                                                                                        |
 
 
-#### 2024: beta and production
+### 2024: beta and production
 
 | January   | Completion of first phase, delivery and preliminary public presentation |
 |-----------|-------------------------------------------------------------------------|
@@ -172,15 +171,15 @@ and development of visualizations                                              |
 | August    |                                                                         |
 | September |                                                                         |
 
-### Design and trademark register
+## Design and trademark register
 
 In process. All rights reserved to Universidad Iberoamericana, A.C.
 
-### Credits
+## Credits
 
 Teresa Márquez, researcher / Xavier Tortolero, developer
 
-### Thanks
+## Thanks
 • Dirección de Investigación y Posgrado, Ibero
 • Coordinación de Computo 
 • Andrés Tortolero, Ingeniería de Datos, Ibero
