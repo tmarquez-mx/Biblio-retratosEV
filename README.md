@@ -80,13 +80,15 @@ Phase 2.
 ### Registry Guide
 1. Go to Biblio-retratos webpage (https://biblioretratos.ibero.mx/)
 2. The first time you must get your username clicking **`Register here`**.
+<img width="600" alt="Captura de pantalla 2024-06-12 a la(s) 6 06 51 p m" src="https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/26384ffd-22e0-4d40-a151-678057c88cbc">
+
 3. In the next screen, type your email and a 10 character password, using small and caps
+
+<img width="852" alt="Captura de pantalla 2024-06-12 a la(s) 6 08 27 p m" src="https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/70e0ca8e-4774-4361-b176-a9c99019634e">
+
 4. Next screen wil request for one time only your Zotero User ID and the Private Key. To get those, you can go to https://www.zotero.org/settings/keys or follow the next instructions
 
-<img width="600" alt="Captura de pantalla 2024-06-12 a la(s) 6 06 51 p m" src="https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/12ce35b2-c13a-4758-818d-283ef48bd4f5">
-
-
-
+<img width="637" alt="Captura de pantalla 2024-06-12 a la(s) 6 12 06 p m" src="https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/1e7e077d-6e21-42bf-9f04-0aefaa5fc4fa">
 
 
 
@@ -96,8 +98,8 @@ Biblio-retratos allows you to obtain metadata analyrics from your references dat
 You could also know from which years and places your sources come from more frequently. Or what library sub-collection use the wider variety of items or formats. Once you enter BR, after identification (it will not be necessary to write email or password again, since the system stores them) a screen shows up with the "Start query" button. When you click it, you must follow the following steps for a query.
 
 
-![598b3bc6958e137fe5efc71a21a57eda.png](./598b3bc6958e137fe5efc71a21a57eda.png)
 
+<img width="852" alt="Captura de pantalla 2024-06-12 a la(s) 6 08 27 p m" src="https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/6a9a3a7b-073b-4d2a-b2c6-b3f265da0f83">
 
 
 Step 1. Query filters
