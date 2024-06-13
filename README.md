@@ -9,12 +9,12 @@ A reinterpretation from Digital Humanities of Zotero as an artifact to document 
 - Keywords
 - Enabled features
 - Future features
-- Development
+- [Development](https://github.com/tmarquez-mx/Biblio-retratosEV/?tab=readme-ov-file#development)
 - Security
 - [Register Guide](https://github.com/tmarquez-mx/Biblio-retratosEV/?tab=readme-ov-file#registry-guide)
-- Query Guide
-- Visualization Guide
-- History
+- [Query Guide](https://github.com/tmarquez-mx/Biblio-retratosEV/?tab=readme-ov-file#query-guide)
+- [Visualization Guide](https://github.com/tmarquez-mx/Biblio-retratosEV/?tab=readme-ov-file#visualization-guide)
+- [History](https://github.com/tmarquez-mx/Biblio-retratosEV/?tab=readme-ov-file#history)
 - Design and image trademark
 - Credits
 - Thanks
