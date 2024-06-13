@@ -98,24 +98,42 @@ Biblio-retratos allows you to obtain metadata analyrics from your references dat
 You could also know from which years and places your sources come from more frequently. Or what library sub-collection use the wider variety of items or formats. Once you enter BR, after identification (it will not be necessary to write email or password again, since the system stores them) a screen shows up with the "Start query" button. When you click it, you must follow the following steps for a query.
 
 
+![imagen](https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/2ed38cdc-e23b-4e57-a526-af6a67067ff1)
 
-<img width="852" alt="Captura de pantalla 2024-06-12 a la(s) 6 08 27 p m" src="https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/6a9a3a7b-073b-4d2a-b2c6-b3f265da0f83">
 
 
 Step 1. Query filters
 To start a query, you must choose through a check in the left side boxes, which item type AND/OR collection will be processed.
 
+![imagen](https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/a425cb5a-b3fb-42e2-ac9d-d3227f04bd3b)
+![imagen](https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/867aad68-75ec-4a62-9d89-f699960503c3)
+
+
 Step 2. Visualization fields.
 
 Here you must choose through a check the field  by which the item type or sub-collection selected in the previous step must be searched.
+![imagen](https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/858953bd-dd1e-4613-869f-4a55039d62aa)
+
 
 Step 3. Periods of time.
 
+![imagen](https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/a638b218-1045-42cc-bed5-2fcb8bd512c3)
+![imagen](https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/acc88e5c-61e4-43c8-8585-79721d54767a)
 After setting the query, click in "Query". It can take some time, since it is done remotely using your data stored in the Zotero Server. Duration will depend in connection speed, size of the database, number of search parameters, among others. Results will be shown in a frequency table that can be exported to Excel.
+
+
+
+![imagen](https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/ab56e2a4-a295-4d42-8f04-bb1303f08d6b)
+
 
 ### Visualization Guide
 
 To generate visualizations of charts or analytics, you must point the cursor to the 3 dots in the upper left side (typo en el original)  next to the time intervals and choose the appropiate graphic from the menu. Resulting visualiztion can be exported in .PNG
+
+![imagen](https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/7de3688e-8c16-4bf2-99a7-8fc31af60c0b)
+
+![imagen](https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/788104c2-9036-47fa-97f0-0b2f7177655b)
+
 
 This example is a word cloud where the frequency of the authors captured in a whole database appear.
 
