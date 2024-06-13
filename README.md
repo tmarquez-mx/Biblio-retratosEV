@@ -11,7 +11,7 @@ A reinterpretation from Digital Humanities of Zotero as an artifact to document 
 - Future features
 - Development
 - Security
-- Register Guide
+- [Register Guide](https://github.com/tmarquez-mx/Biblio-retratosEV/?tab=readme-ov-file#registry-guide)
 - Query Guide
 - Visualization Guide
 - History
