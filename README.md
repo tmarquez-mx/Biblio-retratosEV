@@ -5,19 +5,19 @@ A reinterpretation from Digital Humanities of Zotero as an artifact to document 
 ### Scheme
 
 - [Narrative description](https://github.com/tmarquez-mx/Biblio-retratosEV/#narrative-description)
-- Operative description
-- Keywords
-- Enabled features
-- Future features
+- [Operative description](https://github.com/tmarquez-mx/Biblio-retratosEV/?tab=readme-ov-file#operative-description)
+- [Keywords](https://github.com/tmarquez-mx/Biblio-retratosEV/?tab=readme-ov-file#keywords)
+- [Enabled features](https://github.com/tmarquez-mx/Biblio-retratosEV/?tab=readme-ov-file#enabled-features)
+- [Future features](https://github.com/tmarquez-mx/Biblio-retratosEV/?tab=readme-ov-file#future-features)
 - [Development](https://github.com/tmarquez-mx/Biblio-retratosEV/?tab=readme-ov-file#development)
-- Security
+- [Security](https://github.com/tmarquez-mx/Biblio-retratosEV/?tab=readme-ov-file#security)
 - [Register Guide](https://github.com/tmarquez-mx/Biblio-retratosEV/?tab=readme-ov-file#registry-guide)
 - [Query Guide](https://github.com/tmarquez-mx/Biblio-retratosEV/?tab=readme-ov-file#query-guide)
 - [Visualization Guide](https://github.com/tmarquez-mx/Biblio-retratosEV/?tab=readme-ov-file#visualization-guide)
 - [History](https://github.com/tmarquez-mx/Biblio-retratosEV/?tab=readme-ov-file#history)
-- Design and image trademark
-- Credits
-- Thanks
+- [Design and image trademark](https://github.com/tmarquez-mx/Biblio-retratosEV/?tab=readme-ov-file#design-and-trademark-register)
+- [Credits](https://github.com/tmarquez-mx/Biblio-retratosEV/?tab=readme-ov-file#credits)
+- [Thanks](https://github.com/tmarquez-mx/Biblio-retratosEV/?tab=readme-ov-file#thanks)
 
 
 
