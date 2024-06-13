@@ -139,6 +139,8 @@ This example is a word cloud where the frequency of the authors captured in a wh
 
 IMG. Demo of the complete visualization and query process.
 
+![BR_gif](https://github.com/tmarquez-mx/biblio-retrato/assets/69394840/3483fef7-1859-4091-a2da-4b4497de20c6)
+
 ### History
 
 #### 2023: (re) design and development
