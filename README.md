@@ -4,7 +4,7 @@ A reinterpretation from Digital Humanities of Zotero as an artifact to document 
 
 ### Scheme
 
-- [Narrative description](https://github.com/tmarquez-mx/biblio-retratoEV#Narrativedescription)
+- [Narrative description](https://github.com/tmarquez-mx/Biblio-retratosEV/#narrative-description)
 - Operative description
 - Keywords
 - Enabled features
