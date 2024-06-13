@@ -1,6 +1,6 @@
 # Biblio-retratos. Visualizing academic identities.
 A reinterpretation from Digital Humanities of Zotero as an artifact to document academic identities in literacy.
-##### [SPANISH VERSION](https://github.com/tmarquez-mx/biblio-retratos/blob/main/README.md)
+##### [ORIGINAL VERSION](https://github.com/tmarquez-mx/biblio-retratos/blob/main/README.md)
 
 ### Scheme
 
@@ -82,6 +82,13 @@ Phase 2.
 2. The first time you must get your username clicking **`Register here`**.
 3. In the next screen, type your email and a 10 character password, using small and caps
 4. Next screen wil request for one time only your Zotero User ID and the Private Key. To get those, you can go to https://www.zotero.org/settings/keys or follow the next instructions
+
+<img width="600" alt="Captura de pantalla 2024-06-12 a la(s) 6 06 51 p m" src="https://github.com/tmarquez-mx/Biblio-retratosEV/assets/69394840/12ce35b2-c13a-4758-818d-283ef48bd4f5">
+
+
+
+
+
 
 ### Query Guide
 
