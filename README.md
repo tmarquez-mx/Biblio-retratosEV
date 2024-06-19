@@ -31,8 +31,7 @@ Biblio-retratos is a [web application]( https://biblioretratos.ibero.mx/) that a
 
 • Biblio-retratos (BR) links the user with their database stored by default in the Zotero server via [Zotero Web API v3](https://www.zotero.org/support/dev/web_api/v3/start#zotero_web_api_v3). If the database is in another server, communication won't be possible.
 
-• BR is going to request during registration **for the first and only time**  Zotero's ID User and Private key. See instructions.
-
+• BR is going to request during registration **for the first and only time**  Zotero's ID User and Private key. [See instructions](https://github.com/tmarquez-mx/biblio-retratos/blob/main/Reg_Inst_EV.md)
 • Queries are performed by item type (i.e., book, book section, journal, and so on) or by sub-collection. The whole database can be queried if no item or sub-collection is selected.[^1]
 
 • Fields that can be selected to visualize are: author, place, date, date added, tag and item type.
